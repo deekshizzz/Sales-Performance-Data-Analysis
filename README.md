@@ -28,3 +28,25 @@ Jupyter Notebook – code and visual analysis
 
 scikit-learn – (optional) predictive modeling or clustering
 
+ Key Analyses Performed
+Missing value treatment and data type correction
+
+Monthly and yearly sales trends
+
+Top 10 selling products
+
+Category-wise and region-wise performance
+
+Customer segmentation (if data is available)
+
+Sales forecasting (optional)
+
+📈 Sample Insights
+📌 Product X drives 30% of total revenue.
+
+🔁 Sales peak during November–December.
+
+🏬 Region Y underperforms compared to others—potential area for marketing focus.
+
+
+
