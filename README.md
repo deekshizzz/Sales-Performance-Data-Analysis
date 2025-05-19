@@ -3,15 +3,11 @@ This project provides a comprehensive analysis of retail sales data using Python
 📊 Project Overview
 The project focuses on:
 
-Cleaning and preprocessing raw sales data.
-
-Performing exploratory data analysis (EDA).
-
-Identifying sales trends, top-performing products, and customer segments.
-
-Visualizing findings with interactive and static charts.
-
-Generating actionable business insights.
+1.Cleaning and preprocessing raw sales data.
+2.Performing exploratory data analysis (EDA).
+3.Identifying sales trends, top-performing products, and customer segments.
+4.Visualizing findings with interactive and static charts.
+5.Generating actionable business insights.
 
 🧰 Tools & Technologies
 Python 3.x
@@ -28,18 +24,14 @@ Jupyter Notebook – code and visual analysis
 
 scikit-learn – (optional) predictive modeling or clustering
 
- Key Analyses Performed
-Missing value treatment and data type correction
+*Key Analyses Performed
 
-Monthly and yearly sales trends
-
-Top 10 selling products
-
-Category-wise and region-wise performance
-
-Customer segmentation (if data is available)
-
-Sales forecasting (optional)
+1.Missing value treatment and data type correction
+2.Monthly and yearly sales trends
+3.Top 10 selling products
+4.Category-wise and region-wise performance
+5.Customer segmentation (if data is available)
+6.Sales forecasting (optional)
 
 📈 Sample Insights
 📌 Product X drives 30% of total revenue.
