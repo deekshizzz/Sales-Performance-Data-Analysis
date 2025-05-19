@@ -4,9 +4,13 @@ This project provides a comprehensive analysis of retail sales data using Python
 The project focuses on:
 
 1.Cleaning and preprocessing raw sales data.
+
 2.Performing exploratory data analysis (EDA).
+
 3.Identifying sales trends, top-performing products, and customer segments.
+
 4.Visualizing findings with interactive and static charts.
+
 5.Generating actionable business insights.
 
 🧰 Tools & Technologies
